@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <BANK_ID>BEBA</BANK_ID>
+ </ROW>
+ <ROW>
+  <BANK_ID>MABA</BANK_ID>
+ </ROW>
+ <ROW>
+  <BANK_ID>COBA</BANK_ID>
+ </ROW>
+ <ROW>
+  <BANK_ID>SABA</BANK_ID>
+ </ROW>
+</ROWSET>
